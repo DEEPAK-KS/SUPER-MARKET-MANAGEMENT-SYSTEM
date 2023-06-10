@@ -1,0 +1,1 @@
+The given code is a C program that manages a stock inventory system. It includes functions for creating records, editing records, displaying stock, generating bills, and deleting items from the stock. The program uses file handling to store and retrieve stock information. It also has functions for converting numbers to words for generating bill amounts.
